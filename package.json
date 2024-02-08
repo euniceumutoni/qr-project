@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.14"
+  },
+  "name": "qr-scan",
+  "version": "1.0.0",
+  "description": "Im learning how to code",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eunice Umutoni",
+  "license": "ISC"
+}
