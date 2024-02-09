@@ -1,3 +1,8 @@
 # QR - Project
 
-This will be used to read QR codes and I will be using javascript and node.js as a frame work.
+This will be able to read my linked in QR code and I will be using javascript and node.js as a frame work.
+
+
+### What next?
+
+I will be creating a restaurant menu page!
