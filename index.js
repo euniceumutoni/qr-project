@@ -6,7 +6,7 @@ import fs from "fs";
 inquirer
   .prompt([
     {
-      message: "Type in your URL: ",
+      message: "Type in your URL: ", //asks the user to type in the URL
       name: "URL",
     },
   ])
@@ -17,7 +17,7 @@ inquirer
 
     fs.writeFile('URL.txt', url, (err) => {
         if (err) throw err;
-        console.log('The file has been saved!');
+        console.log('The file has been saved!'); // should save the URL link in the URL.txt file for you to access
       }); 
 })
   .catch((error) => {
