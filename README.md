@@ -12,7 +12,7 @@ Before you can run this project, you need to have Node.js installed on your mach
 
 Install the project dependencies from your terminal:
 
-npm install
+`npm install`
 
 
 ### More
