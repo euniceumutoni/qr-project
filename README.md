@@ -14,6 +14,14 @@ Install the project dependencies from your terminal:
 
 `npm install`
 
+To start generating:
+
+`nodemon node.js`
+
+Then type in the URL, you should be set after that.
+
+The new qr code should be in your folder after.
+
 
 ### More
 
