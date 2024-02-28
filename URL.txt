@@ -1,2 +1,4 @@
 https://www.linkedin.com/in/euniceumutoni
-// this is just an example and it won't work unless you run it in the terminal. Since you are here, feel free to add me on my LinkedIn :)
+
+
+This is just an example and it won't work unless you run it in the terminal. Since you are here, feel free to add me on my LinkedIn :)
