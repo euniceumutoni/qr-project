@@ -1,4 +1,7 @@
 https://www.linkedin.com/in/euniceumutoni
 
 
-This is just an example and it won't work unless you run it in the terminal. Since you are here, feel free to add me on my LinkedIn :)
+- Your typed in URL will appear here, here is mine when I ran the code.
+
+
+- This is just an example and it won't work unless you run it in the terminal. Since you are here, feel free to add me on my LinkedIn :)
