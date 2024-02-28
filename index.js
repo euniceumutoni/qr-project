@@ -6,7 +6,7 @@ import fs from "fs";
 inquirer
   .prompt([
     {
-      message: "Type in your URL: ", //asks the user to type in the URL
+      message: "Type in your URL: ", //asks the user to type in the URL 
       name: "URL",
     },
   ])
@@ -25,7 +25,7 @@ inquirer
 })
   .catch((error) => {
     if (error.isTtyError) {
-      // Prompt couldn't be rendered in the current environment
+      // Prompt couldn't be rendered in the current environment 
     } else {
       // Something else went wrong
     }
