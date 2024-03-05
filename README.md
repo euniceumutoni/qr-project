@@ -4,7 +4,7 @@
 
 It allows users to input a string of text, and it generates a QR code representing that text. 
 
-Built using Node.js
+Built using Node.js 
 
 ### Installation
 
