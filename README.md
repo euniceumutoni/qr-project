@@ -26,4 +26,4 @@ The new qr code should be in your folder after.
 ### More
 
 Pull requests are welcome!
-
+ 
